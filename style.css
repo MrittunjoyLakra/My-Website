@@ -1,0 +1,106 @@
+body { 
+    margin: 0px;   
+    font-family: 'Poppins', sans-serif; 
+}
+h1 {
+    font-size: 50px;
+}
+.pink-header {
+    font-size: 60px;
+    color: rgb(255, 0, 85);
+}
+
+
+.first-width {
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+.first-width img {
+   
+    width: 100%;
+}
+p {
+    color: grey;
+}
+.top-banner {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+
+}
+section {
+    height: 500px;
+    
+    padding-bottom: 100px;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(10, 180, 47), rgb(132, 236, 12));
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700px;
+    color: white;
+}
+.bottom-banner {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+     
+}
+.second-button {
+    
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(143, 36, 185), rgb(231, 168, 31));
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700px;
+    color: white;
+}
+.center-head {
+    text-align: center;
+}
+.image-area {
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.imageswork {
+    width: 30%;
+    float: left;
+    margin: 5% 0%;
+    padding-left: 2%;
+}
+.imageswork img {
+    width: 100%;
+}
+.bold {
+    color: black;
+    font-size: 20px;
+}
+
+.email-button {
+    
+    
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(56, 51, 99), rgb(224, 181, 63));
+    border-radius: 5px;
+    padding: 60px 70px;
+    font-weight: 700px;
+    color: black;
+
+}
+
+
+
+#container{
+    text-align: center;
+
+}
+
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
+
